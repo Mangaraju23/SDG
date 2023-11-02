@@ -1,0 +1,3 @@
+This project name is synthetic data generator. which is mainly used for 
+generate the duplicate data using one original data. and, this is mainly
+used at banking, shopping etc.
